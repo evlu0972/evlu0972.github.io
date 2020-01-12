@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2271px" height="1503px" viewBox="0 0 2271 1503" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>2. 租車Flow_Part2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2.-租車Flow_Part2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(61.000000, 45.000000)">
+            <rect id="Rectangle" stroke="#333461" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="2154" height="108"></rect>
+            <text id="2.-短期租車-Flow" font-family="PingFangTC-Medium, PingFang TC" font-size="38" font-weight="400" line-spacing="50" fill="#0C0E43">
+                <tspan x="38" y="70">2. 短期租車 Flow</tspan>
+            </text>
+        </g>
+        <text id="A-.-租車流程" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#0C0E43">
+            <tspan x="448" y="89">A . 租車流程</tspan>
+        </text>
+        <text id="A-.-租車流程-(狀態&amp;身份)" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="66" y="214">A . 租車流程 (狀態&amp;身份)</tspan>
+        </text>
+        <text id="1-.-已登入-&amp;-可租用車" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="95" y="256">1 . 已登入 &amp; 可租用車</tspan>
+        </text>
+        <text id="B2-.-付款流程---新增綁卡-(會員" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#0C0E43">
+            <tspan x="661" y="421">B2 . 付款流程 - 新增綁卡 (會員)</tspan>
+        </text>
+        <text id="B3-.-付款流程---已綁卡-(會員)" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#0C0E43">
+            <tspan x="1239" y="417">B3 . 付款流程 - 已綁卡 (會員)</tspan>
+        </text>
+        <text id="B1-.-付款流程---未綁卡/直接支付" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#0C0E43">
+            <tspan x="54" y="415">B1 . 付款流程 - 未綁卡/直接支付</tspan>
+        </text>
+        <text id="2-.-新增綁卡-(會員)" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="404" y="283">2 . 新增綁卡 (會員) </tspan>
+        </text>
+        <text id="2-.-未登入-&amp;-可租用車" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="95" y="284">2 . 未登入 &amp; 可租用車</tspan>
+        </text>
+        <text id="3-.-已綁卡-(會員)--選擇信用卡別" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="404" y="312">3 . 已綁卡 (會員)- 選擇信用卡別 </tspan>
+        </text>
+        <text id="1-.-發票---本國人(有)-/-外國" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="889" y="256">1 . 發票 - 本國人(有) / 外國人(無)</tspan>
+        </text>
+        <text id="1-.-未綁卡-(會員/-非會員/-外國" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="404" y="255">1 . 未綁卡 (會員/ 非會員/ 外國人)-直接支付</tspan>
+        </text>
+        <text id="2-.-租車訂單項目-(會員/-非會員/" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="889" y="284">2 . 租車訂單項目  (會員/ 非會員/ 外國人)</tspan>
+        </text>
+        <text id="3-.-無租用車" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="95" y="313">3 . 無租用車</tspan>
+        </text>
+        <text id="B-.-付款流程" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#0C0E43">
+            <tspan x="448" y="128">B . 付款流程</tspan>
+        </text>
+        <text id="Version-V.0_-2019/11" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1955" y="89">Version V.0_ 2019/11/25</tspan>
+        </text>
+        <text id="Editor-:-Evie-Lu" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="2039" y="125">Editor : Evie Lu</tspan>
+        </text>
+        <text id="B-.-付款流程(狀態&amp;身份)" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="377" y="214">B . 付款流程(狀態&amp;身份)</tspan>
+        </text>
+        <text id="C-.-發票-&amp;-租車訂單-(身份)" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="856" y="214">C . 發票 &amp; 租車訂單 (身份)</tspan>
+        </text>
+        <g id="Group-2" transform="translate(693.000000, 443.000000)">
+            <rect id="Rectangle" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="240" height="150"></rect>
+            <text id="確認租車資料-並付款頁面-選擇新增信用卡" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28">
+                <tspan x="59.5" y="54" fill="#0C0E43">確認租車資料</tspan>
+                <tspan x="69.5" y="82" fill="#0C0E43">並付款頁面</tspan>
+                <tspan x="49.5" y="110" fill="#3F87E9">選擇新增信用卡</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(107.000000, 440.000000)">
+            <rect id="Rectangle-Copy-4" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="240" height="150"></rect>
+            <text id="確認租車資料-並付款頁面-選擇直接支付" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28">
+                <tspan x="59.5" y="54" fill="#0C0E43">確認租車資料</tspan>
+                <tspan x="69.5" y="82" fill="#0C0E43">並付款頁面</tspan>
+                <tspan x="59.5" y="110" fill="#3F87E9">選擇直接支付</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(1244.000000, 439.000000)">
+            <rect id="Rectangle-Copy-2" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="240" height="150"></rect>
+            <text id="確認租車資料-並付款頁面-選擇信用卡別" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28">
+                <tspan x="59.5" y="54" fill="#0C0E43">確認租車資料</tspan>
+                <tspan x="69.5" y="82" fill="#0C0E43">並付款頁面</tspan>
+                <tspan x="59.5" y="110" fill="#3F87E9">選擇信用卡別</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(687.000000, 650.000000)">
+            <rect id="Rectangle-Copy" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="246" height="84"></rect>
+            <text id="填寫信用卡資料" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="46" y="47">填寫信用卡資料 </tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-Copy-5" stroke="#BCBCCB" fill="#FFFFFF" x="103" y="654" width="246" height="84"></rect>
+        <text id="填寫信用卡資料-copy" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="169" y="702">填寫信用卡資料 </tspan>
+        </text>
+        <g id="Group-6" transform="translate(716.000000, 1157.000000)">
+            <rect id="Rectangle" stroke="#BCBCCB" fill="#FFFFFF" transform="translate(94.045202, 94.500000) rotate(45.000000) translate(-94.045202, -94.500000) " x="27.5452019" y="28" width="133" height="133"></rect>
+            <text id="綁定信用卡-是否成功" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="45" y="84.4547981">綁定信用卡</tspan>
+                <tspan x="55" y="112.454798">是否成功 </tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(716.000000, 923.000000)">
+            <rect id="Rectangle-Copy-6" stroke="#BCBCCB" fill="#FFFFFF" transform="translate(94.045202, 94.500000) rotate(45.000000) translate(-94.045202, -94.500000) " x="27.5452019" y="28" width="133" height="133"></rect>
+            <text id="輸入資料-是否正確" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="55" y="84.4547981">輸入資料</tspan>
+                <tspan x="55" y="112.454798">是否正確</tspan>
+            </text>
+        </g>
+        <g id="Group-5-Copy" transform="translate(133.000000, 951.000000)">
+            <rect id="Rectangle-Copy-6" stroke="#BCBCCB" fill="#FFFFFF" transform="translate(94.045202, 94.500000) rotate(45.000000) translate(-94.045202, -94.500000) " x="27.5452019" y="28" width="133" height="133"></rect>
+            <text id="輸入資料-是否正確" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="55" y="84.4547981">輸入資料</tspan>
+                <tspan x="55" y="112.454798">是否正確</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-Copy-3" stroke="#BCBCCB" fill="#FFFFFF" transform="translate(1672.045202, 1014.045202) rotate(45.000000) translate(-1672.045202, -1014.045202) " x="1605.5452" y="947.545202" width="133" height="133"></rect>
+        <text id="付款-是否成功" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1653" y="1004">付款</tspan>
+            <tspan x="1633" y="1032">是否成功 </tspan>
+        </text>
+        <path id="Path-68-Copy-4" d="M809.000368,1109.4668 L811.999632,1109.5332 L811.157326,1147.5768 L810.931,1157.806 L817.365608,1146.93874 L819.947138,1148.46704 L810.595181,1164.26391 L809.236691,1166.5586 L807.981095,1164.20603 L799.337462,1148.01073 L801.984104,1146.59819 L807.931,1157.741 L808.158061,1147.51039 L809.000368,1109.4668 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-68-Copy-5" d="M2012.58669,1211.49008 L2012.90087,1259.00313 L2012.968,1269.265 L2019.08842,1258.21409 L2021.71282,1259.66755 L2012.81881,1275.72671 L2011.52684,1278.0595 L2010.20414,1275.744 L2001.09854,1259.80386 L2003.70348,1258.31582 L2009.968,1269.283 L2009.90093,1259.02297 L2009.58676,1211.50992 L2012.58669,1211.49008 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <rect id="Rectangle-Copy-8" stroke="#BCBCCB" fill="#FFFFFF" x="1239" y="966" width="260" height="96"></rect>
+        <rect id="Rectangle-Copy-10" stroke="#BCBCCB" fill="#FFFFFF" x="1882" y="970" width="260" height="96"></rect>
+        <rect id="Rectangle-Copy-11" stroke="#BCBCCB" fill="#FFFFFF" x="1883" y="1108" width="260" height="96"></rect>
+        <g id="Group-7" transform="translate(484.000000, 969.000000)">
+            <rect id="Rectangle-Copy-13" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="183" height="96"></rect>
+            <text id="資料輸入-錯誤訊息-pop-up" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="51.5" y="25">資料輸入</tspan>
+                <tspan x="51.5" y="53">錯誤訊息</tspan>
+                <tspan x="58.49" y="81">pop up</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(486.000000, 1192.000000)">
+            <rect id="Rectangle-Copy-14" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="178" height="96"></rect>
+            <text id="綁定失敗訊息-pop-up" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="31.5" y="40">綁定失敗訊息</tspan>
+                <tspan x="58.49" y="68">pop up</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-Copy-12" stroke="#BCBCCB" fill="#FFFFFF" x="1882" y="1283.5" width="260" height="96"></rect>
+        <g id="Group-9" transform="translate(1239.000000, 823.000000)">
+            <rect id="Rectangle-Copy-9" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="260" height="96"></rect>
+            <text id="確認付款" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="84.5" y="52">確認付款</tspan>
+            </text>
+        </g>
+        <g id="Group-9-Copy" transform="translate(97.000000, 793.000000)">
+            <rect id="Rectangle-Copy-9" stroke="#BCBCCB" fill="#FFFFFF" x="0" y="0" width="260" height="96"></rect>
+            <text id="確認付款" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+                <tspan x="84.5" y="52">確認付款</tspan>
+            </text>
+        </g>
+        <text id="線上付款中....." font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1314.9" y="1024">線上付款中.....</tspan>
+        </text>
+        <text id="付款成功-完成租車訂單" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1972.5" y="1010">付款成功</tspan>
+            <tspan x="1952.5" y="1038">完成租車訂單</tspan>
+        </text>
+        <text id="付款失敗訊息-pop-up" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1953.5" y="1148">付款失敗訊息</tspan>
+            <tspan x="1980.49" y="1176">pop up</tspan>
+        </text>
+        <text id="1.-重新填寫信用卡資料-2.-或改填寫" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#0C0E43">
+            <tspan x="1915" y="1324.5">1. 重新填寫信用卡資料</tspan>
+            <tspan x="1915" y="1352.5">2. 或改填寫需求單</tspan>
+        </text>
+        <text id="Yes" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#19C677">
+            <tspan x="923.938056" y="1240.43151">Yes</tspan>
+        </text>
+        <text id="Yes-Copy-2" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#19C677">
+            <tspan x="838.938056" y="1138.43151">Yes</tspan>
+        </text>
+        <text id="Yes-Copy-3" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#19C677">
+            <tspan x="239" y="1185">Yes</tspan>
+        </text>
+        <text id="Yes-Copy" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#19C677">
+            <tspan x="1787" y="998">Yes</tspan>
+        </text>
+        <text id="No" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#D71E58">
+            <tspan x="682" y="1003">No</tspan>
+        </text>
+        <text id="No-Copy-3" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#D71E58">
+            <tspan x="325" y="1022">No</tspan>
+        </text>
+        <text id="No-Copy-2" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#D71E58">
+            <tspan x="687.938056" y="1233.43151">No</tspan>
+        </text>
+        <text id="No-Copy" font-family="PingFangTC-Medium, PingFang TC" font-size="24" font-weight="400" line-spacing="32" fill="#D71E58">
+            <tspan x="1792" y="1149">No</tspan>
+        </text>
+        <path id="Path-81-Copy" d="M1549.16251,1003.29426 L1565.22606,1012.18034 L1567.55949,1013.47115 L1565.24464,1014.795 L1549.309,1023.90847 L1547.81967,1021.30426 L1558.784,1015.033 L1548.52468,1015.10646 L1499.51066,1015.45476 L1499.48934,1012.45484 L1548.50336,1012.10653 L1558.763,1012.033 L1547.71034,1005.91937 L1549.16251,1003.29426 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-81-Copy-2" d="M1866.57553,1003.28945 L1882.6361,1012.18092 L1884.9691,1013.47252 L1882.6538,1014.79558 L1866.7151,1023.9037 L1865.22665,1021.29899 L1876.192,1015.031 L1865.93311,1015.10143 L1766.80536,1015.77257 L1766.78505,1012.77264 L1865.9128,1012.1015 L1876.173,1012.032 L1865.12248,1005.91407 L1866.57553,1003.28945 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-68-Copy-3" d="M1365.25008,923.484211 L1368.24992,923.515789 L1367.90759,956.036547 L1367.799,966.289 L1374.10784,955.34645 L1376.70694,956.844675 L1367.53902,972.749057 L1366.20727,975.059368 L1364.92444,972.721535 L1356.09335,956.62769 L1358.72342,955.184509 L1364.8,966.258 L1364.90776,956.00497 L1365.25008,923.484211 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-83" d="M1674.5,1108 L1674.5,1157.5 L1876.273,1157.5 L1865.26461,1151.30736 L1866.73539,1148.69264 L1882.73539,1157.69264 L1885.05959,1159 L1882.73539,1160.30736 L1866.73539,1169.30736 L1865.26461,1166.69264 L1876.273,1160.5 L1671.5,1160.5 L1671.5,1108 L1674.5,1108 Z" fill-opacity="0.5" fill="#E83232" fill-rule="nonzero"></path>
+        <path id="Path-81" d="M1219.67345,508.124142 L1235.67345,517.124142 L1237.99765,518.431505 L1235.67345,519.738869 L1219.67345,528.738869 L1218.20266,526.124142 L1229.211,519.931 L1087.269,519.931 L1087.26975,1252.93979 L1085.76149,1252.93148 L914.929799,1251.9911 L914.946313,1248.99114 L1084.269,1249.923 L1084.26975,516.931505 L1229.211,516.931 L1218.20266,510.738869 L1219.67345,508.124142 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-84" d="M227.986587,590.374343 L228.006844,636.625208 L228.011,646.899 L234.199157,635.88624 L236.814528,637.355879 L227.821536,653.359819 L226.515191,655.684593 L225.20681,653.360964 L216.199803,637.364908 L218.813885,635.892979 L225.011,646.9 L225.006844,636.626522 L224.986587,590.375657 L227.986587,590.374343 Z" fill="#9AC709" fill-rule="nonzero"></path>
+        <path id="Path-84-Copy" d="M228.986587,736.374642 L228.996415,777.500113 L228.998,787.773 L235.188876,776.76277 L237.803954,778.232929 L228.807778,794.235079 L227.50097,796.559593 L226.193051,794.235704 L217.189228,778.237856 L219.803603,776.766447 L225.999,787.774 L225.996415,777.50083 L225.986587,736.375358 L228.986587,736.374642 Z" fill="#9AC709" fill-rule="nonzero"></path>
+        <path id="Path-84-Copy-2" d="M227.986587,885.374343 L228.006844,931.625208 L228.011,941.899 L234.199157,930.88624 L236.814528,932.355879 L227.821536,948.359819 L226.515191,950.684593 L225.20681,948.360964 L216.199803,932.364908 L218.813885,930.892979 L225.011,941.9 L225.006844,931.626522 L224.986587,885.375657 L227.986587,885.374343 Z" fill="#9AC709" fill-rule="nonzero"></path>
+        <path id="Path-85" d="M673.673447,683.124142 L689.673447,692.124142 L691.997649,693.431505 L689.673447,694.738869 L673.673447,703.738869 L672.202664,701.124142 L683.211,694.931 L576.938,694.931 L576.938056,970.431505 L573.938056,970.431505 L573.938056,691.931505 L683.211,691.931 L672.202664,685.738869 L673.673447,683.124142 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-86" d="M673.673447,508.124142 L689.673447,517.124142 L691.997649,518.431505 L689.673447,519.738869 L673.673447,528.738869 L672.202664,526.124142 L683.211,519.931 L463.499,519.931 L463.499,1241.931 L488.938056,1241.93151 L488.938056,1244.93151 L460.5,1244.93151 L460.5,516.931505 L683.211,516.931 L672.202664,510.738869 L673.673447,508.124142 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-68-Copy-2" d="M1368,598 L1368,807.773 L1374.19264,796.764608 L1376.80736,798.235392 L1367.80736,814.235392 L1366.5,816.559593 L1365.19264,814.235392 L1356.19264,798.235392 L1358.80736,796.764608 L1365,807.773 L1365,598 L1368,598 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-82-Copy" d="M687.202664,1244.12414 L688.673447,1246.73887 L677.664,1252.931 L732.938056,1252.93151 L732.938056,1255.93151 L677.664,1255.931 L688.673447,1262.12414 L687.202664,1264.73887 L671.202664,1255.73887 L668.878462,1254.43151 L671.202664,1253.12414 L687.202664,1244.12414 Z" fill-opacity="0.5" fill="#E83232" fill-rule="nonzero"></path>
+        <path id="Path-68" d="M811,593 L811,643.273 L817.192637,632.264608 L819.807363,633.735392 L810.807363,649.735392 L809.5,652.059593 L808.192637,649.735392 L799.192637,633.735392 L801.807363,632.264608 L808,643.273 L808,593 L811,593 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-68-Copy" d="M810.499994,737.995845 L810.958458,903.501313 L810.986,913.77 L817.149019,902.743359 L819.76781,904.206894 L810.812165,920.231764 L809.511245,922.559578 L808.197449,920.239007 L799.153162,904.263999 L801.763805,902.785978 L807.987,913.778 L807.95847,903.509623 L807.500006,738.004155 L810.499994,737.995845 Z" fill="#3F87E9" fill-rule="nonzero"></path>
+        <path id="Path-87" d="M1219.67345,1010.69264 L1235.67345,1019.69264 L1237.99765,1021 L1235.67345,1022.30736 L1219.67345,1031.30736 L1218.20266,1028.69264 L1229.211,1022.5 L1190.495,1022.5 L1190.49539,1381 L219.971606,1381 L220.000264,1379.47187 L224.500264,1139.51708 L227.499736,1139.57333 L223.028,1378 L1187.495,1378 L1187.49539,1019.5 L1229.211,1019.5 L1218.20266,1013.30736 L1219.67345,1010.69264 Z" fill="#9AC709" fill-rule="nonzero"></path>
+        <path id="Path-82-Copy-2" d="M336.264608,1034.69264 L337.735392,1037.30736 L326.724,1043.5 L484,1043.5 L484,1046.5 L326.727,1046.5 L337.735392,1052.69264 L336.264608,1055.30736 L320.264608,1046.30736 L317.940407,1045 L320.264608,1043.69264 L336.264608,1034.69264 Z" fill-opacity="0.5" fill="#E83232" fill-rule="nonzero"></path>
+        <path id="Path-82" d="M681.860312,1008.3264 L683.306595,1010.95475 L672.239,1017.044 L682.495585,1017.14008 L721.014018,1017.50007 L720.985982,1020.49993 L682.467549,1020.13995 L672.21,1020.043 L683.162814,1026.33935 L681.667659,1028.94022 L665.752466,1019.79109 L663.440584,1018.46206 L665.776902,1017.17648 L681.860312,1008.3264 Z" fill-opacity="0.5" fill="#E83232" fill-rule="nonzero"></path>
+        <path id="Path-88" d="M381.631078,699.692637 L380.160294,702.307363 L364.160294,693.307363 L361.836092,692 L364.160294,690.692637 L380.160294,681.692637 L381.631078,684.307363 L370.622,690.5 L534.395686,690.5 L534.395686,969 L531.395686,969 L531.395,693.5 L370.622,693.5 L381.631078,699.692637 Z" fill="#9AC709" fill-rule="nonzero"></path>
+        <text id="信用卡資料-全部清除" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#3F87E9">
+            <tspan x="583" y="730">信用卡資料</tspan>
+            <tspan x="583" y="758">全部清除</tspan>
+        </text>
+        <text id="信用卡資料-全部清除-copy" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" line-spacing="28" fill="#9AC709">
+            <tspan x="361" y="726">信用卡資料</tspan>
+            <tspan x="361" y="754">全部清除</tspan>
+        </text>
+        <path id="Path-89" d="M82.4916858,688.192637 L98.4916858,697.192637 L100.815887,698.5 L98.4916858,699.807363 L82.4916858,708.807363 L81.0209021,706.192637 L92.029,700 L70.457,700 L70.457,1419.487 L1670.658,1419.487 L1670.65816,1314.85461 L1889.5748,1314.8546 C1890.29398,1310.32063 1894.22075,1306.85461 1898.95704,1306.85461 C1904.20375,1306.85461 1908.45704,1311.10791 1908.45704,1316.35461 C1908.45704,1321.60132 1904.20375,1325.85461 1898.95704,1325.85461 C1894.22075,1325.85461 1890.29398,1322.3886 1889.5748,1317.85463 L1673.658,1317.854 L1673.65816,1422.48767 L67.4570449,1422.48767 L67.4570449,697 L92.029,697 L81.0209021,690.807363 L82.4916858,688.192637 Z" fill="#9AC709" fill-rule="nonzero"></path>
+    </g>
+</svg>

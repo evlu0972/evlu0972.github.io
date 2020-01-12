@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3323 1810" style="enable-background:new 0 0 3323 1810;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#333461;stroke-width:2;}
+	.st1{fill:#0C0E43;}
+	.st2{font-family:'PingFangTC-Medium-B5pc-H';}
+	.st3{font-size:38px;}
+	.st4{font-size:24px;}
+	.st5{font-size:20px;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#BCBCCB;}
+	.st7{fill:#3F87E9;}
+	.st8{enable-background:new    ;}
+	.st9{fill:#0B1421;}
+</style>
+<title>2. 租車Flow_Part1 Copy</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<g id="Group-11" transform="translate(71.000000, 54.000000)">
+		<rect id="Rectangle" x="1" y="1" class="st0" width="3199" height="108"/>
+		<text transform="matrix(1 0 0 1 55 70)" class="st1 st2 st3">2. 短期租車 Flow</text>
+	</g>
+	<text transform="matrix(1 0 0 1 458 101)" class="st1 st2 st4">A . 租車流程</text>
+	<text transform="matrix(1 0 0 1 76 231)" class="st1 st2 st5">A . 租車流程 (狀態&amp;身份)</text>
+	<text transform="matrix(1 0 0 1 105 273)" class="st1 st2 st5">1 . 已登入 &amp; 可租用車</text>
+	<text transform="matrix(1 0 0 1 71 408)" class="st1 st2 st4">A1 . 已登入 &amp; 可租用車 (路徑來源)</text>
+	<text transform="matrix(1 0 0 1 1206 408)" class="st1 st2 st4">A2 . 未登入 &amp; 可租用車 (路徑來源)</text>
+	<text transform="matrix(1 0 0 1 417 273)" class="st1 st2 st5">1 . 新增綁卡 (會員)</text>
+	<text transform="matrix(1 0 0 1 105 301)" class="st1 st2 st5">2 . 未登入 &amp; 可租用車</text>
+	<text transform="matrix(1 0 0 1 417 301)" class="st1 st2 st5">2 . 已綁卡 (會員)- 選擇信用卡別</text>
+	<text transform="matrix(1 0 0 1 899 273)" class="st1 st2 st5">1 . 發票 - 本國人(有) / 外國人(無)</text>
+	<text transform="matrix(1 0 0 1 417 330)" class="st1 st2 st5">3 . 未綁卡 (會員/ 非會員/ 外國人)-直接支付</text>
+	<text transform="matrix(1 0 0 1 899 301)" class="st1 st2 st5">2 . 租車訂單項目 (會員/ 非會員/ 外國人)</text>
+	<text transform="matrix(1 0 0 1 105 330)" class="st1 st2 st5">3 . 無租用車</text>
+	<text transform="matrix(1 0 0 1 458 138)" class="st1 st2 st4">B . 付款流程</text>
+	<text transform="matrix(1 0 0 1 3006 98)" class="st1 st2 st5">Version V.1_ 2019/11/26</text>
+	<text transform="matrix(1 0 0 1 3090 134)" class="st1 st2 st5">Editor : Evie Lu</text>
+	<text transform="matrix(1 0 0 1 387 231)" class="st1 st2 st5">B . 付款流程(狀態&amp;身份)</text>
+	<text transform="matrix(1 0 0 1 866 231)" class="st1 st2 st5">C . 發票 &amp; 租車訂單 (身份)</text>
+	<rect x="71" y="435" class="st6" width="240" height="150"/>
+	<rect id="Rectangle-Copy" x="71" y="665" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 177.29 468)" class="st1 st2 st5">1-1 </text>
+	<text transform="matrix(1 0 0 1 141.5 496)" class="st1 st2 st5">首頁搜尋列</text>
+	<text transform="matrix(1 0 0 1 116.51 524)" class="st1 st2 st5">(選擇時間/ 地點)</text>
+	<text transform="matrix(1 0 0 1 151.5 552)" class="st7 st2 st5">搜尋車輛</text>
+	<text transform="matrix(1 0 0 1 151 727)" class="st1 st2 st5">選擇車型</text>
+	<text transform="matrix(1 0 0 1 231 727)" class="st1 st2 st5"> </text>
+	<text transform="matrix(1 0 0 1 140.22 755)" class="st1 st2 st5">&amp; 加選配備</text>
+	<path id="Path-68" class="st7" d="M192.8,602v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V602H192.8z"/>
+	<path id="Path-68-Copy" class="st7" d="M192.8,823v245.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V823H192.8z"
+		/>
+	<rect id="Rectangle-Copy-3" x="331" y="435" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 434.87 475)" class="st1 st2 st5">1-2</text>
+	<text transform="matrix(1 0 0 1 391 503)" class="st1 st2 st5">首頁車級列表</text>
+	<text transform="matrix(1 0 0 1 387.6 531)" class="st1 st2 st5">(選擇A級車型)</text>
+	<text transform="matrix(1 0 0 1 411 559)" class="st7 st2 st5">立即預約</text>
+	<path id="Path-68-Copy-2" class="st7" d="M453,600v270.8l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V600H453z"/>
+	<rect id="Rectangle-Copy-6" x="591" y="435" class="st6" width="240" height="150"/>
+	<rect id="Rectangle-Copy-7" x="336" y="882" class="st6" width="755" height="139"/>
+	<rect id="Rectangle-Copy-8" x="82" y="1103" class="st6" width="1014" height="96"/>
+	<rect id="Rectangle-Copy-12" x="591" y="663" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 694.87 474)" class="st1 st2 st5">1-3</text>
+	<text transform="matrix(1 0 0 1 651 502)" class="st1 st2 st5">首頁車級列表</text>
+	<text transform="matrix(1 0 0 1 647.6 530)" class="st1 st2 st5">(選擇A級車型)</text>
+	<text transform="matrix(1 0 0 1 671 558)" class="st7 st2 st5">車輛詳情</text>
+	<g class="st8">
+		<text transform="matrix(1 0 0 1 641.5 928)" class="st9 st2 st5">已帶入車型名稱</text>
+	</g>
+	<text transform="matrix(1 0 0 1 651.5 956)" class="st1 st2 st5">搜尋日期地點</text>
+	<text transform="matrix(1 0 0 1 664.05 984)" class="st1 st2 st5">&amp;加選配備</text>
+	<text transform="matrix(1 0 0 1 456.89 1155)" class="st1 st2 st5">填寫租車資料 &amp; 選擇優惠方案</text>
+	<text transform="matrix(1 0 0 1 651 725)" class="st1 st2 st5">車型詳細介紹</text>
+	<text transform="matrix(1 0 0 1 671 753)" class="st7 st2 st5">立即預約</text>
+	<path id="Path-68-Copy-4" class="st7" d="M712.8,600v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V600H712.8z
+		"/>
+	<path id="Path-68-Copy-6" class="st7" d="M712.8,821v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V821H712.8z
+		"/>
+	<path id="Path-68-Copy-9" class="st7" d="M712.8,1037v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V1037
+		H712.8z"/>
+	<rect id="Rectangle-Copy-9" x="851" y="435" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 954.87 474)" class="st1 st2 st5">1-4</text>
+	<text transform="matrix(1 0 0 1 931 502)" class="st1 st2 st5">車型價目</text>
+	<text transform="matrix(1 0 0 1 899.34 530)" class="st1 st2 st5">(選擇車種/車型)</text>
+	<text transform="matrix(1 0 0 1 931 558)" class="st7 st2 st5">立即預約</text>
+	<path id="Path-68-Copy-7" class="st7" d="M972.8,600l0.2,266.5l0,10.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5
+		l6.2,11l0-10.3L969.8,600L972.8,600z"/>
+	<rect x="1206" y="435" class="st6" width="240" height="150"/>
+	<rect x="1206" y="665" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 1311.29 468)" class="st1 st2 st5">1-1 </text>
+	<text transform="matrix(1 0 0 1 1275.5 496)" class="st1 st2 st5">首頁搜尋列</text>
+	<text transform="matrix(1 0 0 1 1250.51 524)" class="st1 st2 st5">(選擇時間/ 地點)</text>
+	<text transform="matrix(1 0 0 1 1285.5 552)" class="st7 st2 st5">搜尋車輛</text>
+	<text transform="matrix(1 0 0 1 1286 727)" class="st1 st2 st5">選擇車型</text>
+	<text transform="matrix(1 0 0 1 1366 727)" class="st1 st2 st5"> </text>
+	<text transform="matrix(1 0 0 1 1275.22 755)" class="st1 st2 st5">&amp; 加選配備</text>
+	<rect id="Rectangle-Copy-2" x="1206" y="1103" class="st6" width="1021" height="104"/>
+	<text transform="matrix(1 0 0 1 1676.5 1141)" class="st1 st2 st5">登入頁面</text>
+	<text transform="matrix(1 0 0 1 1756.5 1141)" class="st1 st2 st5"> </text>
+	<text transform="matrix(1 0 0 1 1593.1801 1169)" class="st1 st2 st5">登入會員 / 非會員 / 外國人</text>
+	<rect x="1466" y="435" class="st6" width="240" height="150"/>
+	<rect id="Rectangle-Copy-4" x="1466" y="663" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 1569.87 475)" class="st1 st2 st5">1-2</text>
+	<text transform="matrix(1 0 0 1 1526 503)" class="st1 st2 st5">首頁車級列表</text>
+	<text transform="matrix(1 0 0 1 1522.6 531)" class="st1 st2 st5">(選擇A級車型)</text>
+	<text transform="matrix(1 0 0 1 1546 559)" class="st7 st2 st5">立即預約</text>
+	<g class="st8">
+		<text transform="matrix(1 0 0 1 1516.5 708)" class="st9 st2 st5">已帶入車型名稱</text>
+	</g>
+	<text transform="matrix(1 0 0 1 1526.5 736)" class="st1 st2 st5">搜尋日期地點</text>
+	<text transform="matrix(1 0 0 1 1539.05 764)" class="st1 st2 st5">&amp;加選配備</text>
+	<path id="Path-68-Copy-10" class="st7" d="M1716.4,1212.3l3,0.1l-0.7,27.3l-0.3,10.2l6.5-10.8l2.6,1.5l-9.4,15.8l-1.4,2.3l-1.2-2.4
+		l-8.6-16.2l2.7-1.4l5.9,11.2l0.3-10.2L1716.4,1212.3z"/>
+	<rect id="Rectangle-Copy-13" x="1207" y="1269" class="st6" width="1020" height="100"/>
+	<text transform="matrix(1 0 0 1 1583.39 1312)" class="st1 st2 st5">填寫租車資料 &amp; 選擇優惠方案</text>
+	<text transform="matrix(1 0 0 1 1851.6096 1312)" class="st1 st2 st5"> </text>
+	<text transform="matrix(1 0 0 1 1627.5 1340)" class="st1 st2 st5">會員/非會員/外國人</text>
+	<rect x="1725" y="435" class="st6" width="240" height="150"/>
+	<rect x="1725" y="882" class="st6" width="240" height="139"/>
+	<rect x="1725" y="663" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 1828.87 474)" class="st1 st2 st5">1-3</text>
+	<text transform="matrix(1 0 0 1 1785 502)" class="st1 st2 st5">首頁車級列表</text>
+	<text transform="matrix(1 0 0 1 1781.6 530)" class="st1 st2 st5">(選擇A級車型)</text>
+	<text transform="matrix(1 0 0 1 1805 558)" class="st7 st2 st5">車輛詳情</text>
+	<g class="st8">
+		<text transform="matrix(1 0 0 1 1775.5 922)" class="st9 st2 st5">已帶入車型名稱</text>
+	</g>
+	<text transform="matrix(1 0 0 1 1785.5 950)" class="st1 st2 st5">搜尋日期地點</text>
+	<text transform="matrix(1 0 0 1 1798.05 978)" class="st1 st2 st5">&amp;加選配備</text>
+	<text transform="matrix(1 0 0 1 1785 725)" class="st1 st2 st5">車型詳細介紹</text>
+	<text transform="matrix(1 0 0 1 1805 753)" class="st7 st2 st5">立即預約</text>
+	<rect x="1987" y="435" class="st6" width="240" height="150"/>
+	<rect id="Rectangle-Copy-10" x="1987" y="663" class="st6" width="240" height="150"/>
+	<text transform="matrix(1 0 0 1 2090.8701 474)" class="st1 st2 st5">1-4</text>
+	<text transform="matrix(1 0 0 1 2067 502)" class="st1 st2 st5">車型價目</text>
+	<text transform="matrix(1 0 0 1 2035.34 530)" class="st1 st2 st5">(選擇車種/車型)</text>
+	<text transform="matrix(1 0 0 1 2067 558)" class="st7 st2 st5">立即預約</text>
+	<g class="st8">
+		<text transform="matrix(1 0 0 1 2037 708)" class="st9 st2 st5">已帶入車型名稱</text>
+	</g>
+	<text transform="matrix(1 0 0 1 2047 736)" class="st1 st2 st5">搜尋日期地點</text>
+	<text transform="matrix(1 0 0 1 2059.55 764)" class="st1 st2 st5">&amp;加選配備</text>
+	<path class="st7" d="M2105.8,606v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V606H2105.8z"/>
+	<path id="Path-68-Copy-8" class="st7" d="M2102.8,827l3,0l-0.7,234.5l0,10.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5
+		l6.2,11l0-10.3L2102.8,827z"/>
+	<path class="st7" d="M1326.8,602v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V602H1326.8z"/>
+	<path class="st7" d="M1326.8,823v245.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V823H1326.8z"/>
+	<path class="st7" d="M1588,600v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V600H1588z"/>
+	<path id="Path-68-Copy-3" class="st7" d="M1588,821v245.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V821H1588z"
+		/>
+	<path class="st7" d="M1846.8,600v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V600H1846.8z"/>
+	<path class="st7" d="M1846.8,821v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V821H1846.8z"/>
+	<path class="st7" d="M1846.8,1028v50.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V1028H1846.8z"/>
+	<text transform="matrix(1 0 0 1 2272 408)" class="st1 st2 st4">A3 . 無租用車 (路徑來源)</text>
+	<g id="Group" transform="translate(2272.000000, 435.000000)">
+		<rect class="st6" width="240" height="150"/>
+		<rect y="814" class="st6" width="489" height="94"/>
+		<text transform="matrix(1 0 0 1 106.29 33)" class="st1 st2 st5">1-1 </text>
+		<text transform="matrix(1 0 0 1 70.5 61)" class="st1 st2 st5">首頁搜尋列</text>
+		<text transform="matrix(1 0 0 1 45.51 89)" class="st1 st2 st5">(選擇時間/ 地點)</text>
+		<text transform="matrix(1 0 0 1 80.5 117)" class="st7 st2 st5">搜尋車輛</text>
+		<text transform="matrix(1 0 0 1 141 867)" class="st1 st2 st5">搜尋日期地點頁面</text>
+		<path class="st7" d="M121.7,167l1.2,447.5l0,10.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11l0-10.3L118.8,167
+			L121.7,167z"/>
+		<rect x="260" class="st6" width="240" height="150"/>
+		<text transform="matrix(1 0 0 1 363.8701 40)" class="st1 st2 st5">1-2</text>
+		<text transform="matrix(1 0 0 1 320 68)" class="st1 st2 st5">首頁車級列表</text>
+		<text transform="matrix(1 0 0 1 316.6001 96)" class="st1 st2 st5">(選擇A級車型)</text>
+		<text transform="matrix(1 0 0 1 340 124)" class="st7 st2 st5">立即預約</text>
+		<rect x="520" class="st6" width="240" height="150"/>
+		<rect y="630" class="st6" width="1020" height="139"/>
+		<rect x="271" y="450" class="st6" width="749" height="79"/>
+		<rect id="Rectangle-Copy-19" x="520" y="233" class="st6" width="240" height="116"/>
+		<text transform="matrix(1 0 0 1 586 278)" class="st1 st2 st5">車型詳細介紹</text>
+		<text transform="matrix(1 0 0 1 606 306)" class="st7 st2 st5">立即預約</text>
+		<text transform="matrix(1 0 0 1 623.8701 39)" class="st1 st2 st5">1-3</text>
+		<text transform="matrix(1 0 0 1 580 67)" class="st1 st2 st5">首頁車級列表</text>
+		<text transform="matrix(1 0 0 1 576.6001 95)" class="st1 st2 st5">(選擇A級車型)</text>
+		<text transform="matrix(1 0 0 1 600 123)" class="st7 st2 st5">車輛詳情</text>
+		<text transform="matrix(1 0 0 1 348.5 671)" class="st1 st2 st5">告知User 目前所選期間無車型 另可</text>
+		<text transform="matrix(1 0 0 1 665.519 671)" class="st1 st2 st5"> </text>
+		<text transform="matrix(1 0 0 1 217.8501 727)" class="st1 st2 st5">1. 重新搜尋時間/ 地點 2. 改填寫需求單 3. 電聯客服</text>
+		<path class="st7" d="M641.8,165l0.2,39.5l0,10.3l6.1-11l2.6,1.5l-8.9,16l-1.3,2.3l-1.3-2.3l-9.1-16l2.6-1.5l6.2,11l0-10.3
+			l-0.2-39.5L641.8,165z"/>
+		<path class="st7" d="M639,364.5l3,0l-0.2,61.5l0,10.3l6.2-11l2.6,1.5l-9.1,16l-1.3,2.3l-1.3-2.3l-8.9-16l2.6-1.5l6.2,11L639,364.5
+			z"/>
+		<path id="Path-68-Copy-13" class="st7" d="M640.1,532.2l3,0l-0.9,74.3l-0.1,10.2l6.3-10.9l2.6,1.5l-9.2,15.9l-1.3,2.3l-1.3-2.3
+			l-8.8-16.1l2.6-1.4l6.1,11.1l0.1-10.3L640.1,532.2z"/>
+		<path id="Path-68-Copy-15" class="st7" d="M763.2,1147.2l0.3,45.4l0.1,10.3l6.1-11.1l2.6,1.5l-8.9,16.1l-1.3,2.3l-1.3-2.3
+			l-9.1-15.9l2.6-1.5l6.3,11l-0.1-10.3l-0.3-45.4L763.2,1147.2z"/>
+		<rect x="780" class="st6" width="240" height="150"/>
+		<rect id="Rectangle-Copy-11" x="532" y="1058" class="st6" width="489" height="108"/>
+		<rect id="Rectangle-Copy-15" x="532" y="818" class="st6" width="489" height="90"/>
+		<path id="Path-68-Copy-14" class="st7" d="M761.6,893.1l0.3,34.4l0.1,10.3l6.1-11.1l2.6,1.4l-8.9,16.1l-1.3,2.3l-1.3-2.3
+			l-9.1-15.9l2.6-1.5l6.3,11l-0.1-10.3l-0.3-34.4L761.6,893.1z"/>
+		<rect id="Rectangle-Copy-16" x="533" y="939" class="st6" width="489" height="90"/>
+		<path id="Path-68-Copy-16" class="st7" d="M759.2,1012.2l3,0l-0.2,36.3l0,10.3l6.2-11l2.6,1.5l-9.1,16l-1.3,2.3l-1.3-2.3l-8.9-16
+			l2.6-1.5l6.1,11l0-10.3L759.2,1012.2z"/>
+		<rect id="Rectangle-Copy-14" x="533" y="1212" class="st6" width="489" height="108"/>
+		<text transform="matrix(1 0 0 1 883.8701 39)" class="st1 st2 st5">1-4</text>
+		<text transform="matrix(1 0 0 1 860 67)" class="st1 st2 st5">車型價目</text>
+		<text transform="matrix(1 0 0 1 828.3401 95)" class="st1 st2 st5">(選擇車種/車型)</text>
+		<text transform="matrix(1 0 0 1 860 123)" class="st7 st2 st5">立即預約</text>
+		<text transform="matrix(1 0 0 1 737 1102)" class="st1 st2 st5">登入頁面</text>
+		<text transform="matrix(1 0 0 1 817 1102)" class="st1 st2 st5"> </text>
+		<text transform="matrix(1 0 0 1 633.6799 1130)" class="st1 st2 st5">選擇會員登入 / 非會員 / 外國人</text>
+		<text transform="matrix(1 0 0 1 672.55 867)" class="st1 st2 st5">選擇租車日期&amp;地點</text>
+		<text transform="matrix(1 0 0 1 721 988)" class="st1 st2 st5">選擇車型</text>
+		<text transform="matrix(1 0 0 1 707 1260)" class="st1 st2 st5">填寫租車需求單</text>
+		<text transform="matrix(1 0 0 1 847 1260)" class="st1 st2 st5"> </text>
+		<text transform="matrix(1 0 0 1 673.6799 1288)" class="st1 st2 st5">會員 / 非會員 / 外國人</text>
+		<path class="st7" d="M901.8,165l0.2,266.5l0,10.3l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11l0-10.3L898.8,165
+			L901.8,165z"/>
+		<path class="st7" d="M382,165v263.8l6.2-11l2.6,1.5l-9,16l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11V165H382z"/>
+		<path id="Path-79" class="st7" d="M563,732.6c5.2,0,9.5,4.3,9.5,9.5c0,4.7-3.5,8.7-8,9.4l0,19.9l197,0v42l6.2-11l2.6,1.5l-9,16
+			l-1.3,2.3l-1.3-2.3l-9-16l2.6-1.5l6.2,11v-39l-197,0v-22.9c-4.5-0.7-8-4.6-8-9.4C553.5,736.9,557.8,732.6,563,732.6z"/>
+		<path id="Path-80" class="st7" d="M318,726.6c5.2,0,9.5,4.3,9.5,9.5c0,4.7-3.5,8.7-8,9.4l0,60.9l6.2-11l2.6,1.5l-9,16l-1.3,2.3
+			l-1.3-2.3l-9-16l2.6-1.5l6.2,11v-60.9c-4.4-0.7-7.9-4.5-8-9.1l0-0.3C308.5,730.9,312.8,726.6,318,726.6z"/>
+		<g class="st8">
+			<text transform="matrix(1 0 0 1 571 479)" class="st9 st2 st5">已帶入車型名稱</text>
+		</g>
+		<text transform="matrix(1 0 0 1 546.8901 507)" class="st1 st2 st5">搜尋日期地點 &amp; 地點</text>
+	</g>
+</g>
+</svg>
